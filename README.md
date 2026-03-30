@@ -24,11 +24,7 @@ My interests lie in backend systems, machine learning, and embedded computing, w
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manas-mahawar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manas-mahawar&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manas-mahawar&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
