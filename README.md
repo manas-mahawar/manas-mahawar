@@ -1,23 +1,29 @@
-<div align="center">
-
 # Manas Mahawar
 
 Electronics & Computer Engineering Student
 Thapar Institute of Engineering & Technology
 
-Summer Intern @ DRDO (DEAL), Ministry of Defence
-
-</div>
+Summer Intern, DRDO (Defence Electronics Application Laboratory), Ministry of Defence
 
 ---
 
-## About Me
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manas-mahawar\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manas-mahawar\&layout=compact\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=manas-mahawar\&hide_border=true)
+
+---
+
+## About
 
 I build systems that solve real-world problems across software, data, and embedded domains.
 
-During my internship at DRDO (DEAL), I developed and deployed a full-stack application to automate academic timetable extraction from complex Excel files, reducing manual processing effort significantly.
+During my internship at DRDO (DEAL), I developed a full-stack system to automate timetable extraction from complex Excel files. The solution handled irregular structures such as merged cells and reduced manual processing effort significantly.
 
-My interests lie in backend systems, machine learning, and embedded computing, with a focus on building scalable and practical solutions.
+My focus areas include backend systems, machine learning, and embedded computing, with an emphasis on scalable and efficient solutions.
 
 ---
 
@@ -25,43 +31,48 @@ My interests lie in backend systems, machine learning, and embedded computing, w
 
 ### SchedulForge
 
-Full-stack web application for automated timetable extraction and structuring.
+https://github.com/manas-mahawar/SchedulForge
 
+Full-stack application for automated timetable extraction and structuring.
+
+* Designed a generalized parsing system for complex Excel formats including merged cells
 * Built using FastAPI, Pandas, and JavaScript
-* Handles complex Excel formats including merged cells
-* Deployed with live frontend and backend
+* Automated a previously manual workflow during DRDO internship
 
-### Power Demand Forecasting
+---
 
-Time-series forecasting model using LSTM neural networks.
+### Power Demand Forecasting (LSTM)
 
+https://github.com/manas-mahawar/power-demand-forecasting-lstm
+
+Time-series forecasting model for electricity demand prediction.
+
+* Implemented LSTM-based deep learning model
 * Trained on multi-year electricity demand data
-* Captures temporal patterns and seasonal trends
-* Implemented feature engineering and sequence modeling
+* Captured temporal patterns and seasonal trends
+
+---
 
 ### Loan Approval Prediction
 
-Machine learning classification model for predicting loan approval.
+https://github.com/manas-mahawar/loan-approval-prediction
 
-* Applied preprocessing, feature engineering, and model evaluation
-* Compared multiple algorithms including Logistic Regression and Random Forest
-* Identified key factors influencing loan decisions
+Machine learning classification model for loan approval prediction.
+
+* Applied preprocessing and feature engineering
+* Trained Logistic Regression and Random Forest models
+* Evaluated model performance and feature impact
 
 ---
 
 ## Technical Skills
 
-**Languages**
-Python, C++, C, JavaScript, Verilog
-
-**Machine Learning**
-Scikit-learn, TensorFlow, Keras, Pandas, NumPy
-
-**Backend & Web**
-FastAPI, REST APIs, HTML, CSS, GitHub Pages
-
-**Embedded Systems**
-ARM, Arduino, MATLAB/Simulink
+Languages: Python, C++, C, JavaScript, Verilog
+Machine Learning: Scikit-learn, TensorFlow, Keras, Pandas, NumPy
+Backend: FastAPI, REST APIs
+Frontend: HTML, CSS
+Embedded Systems: ARM, Arduino, MATLAB/Simulink
+Tools: Git, GitHub
 
 ---
 
@@ -74,11 +85,11 @@ ARM, Arduino, MATLAB/Simulink
 
 ---
 
-## Currently Working On
+## Current Focus
 
 * Data Structures and Algorithms
-* Embedded Systems and Digital Design
 * Backend system design
+* Embedded systems and digital design
 
 ---
 
@@ -89,8 +100,6 @@ LinkedIn: https://linkedin.com/in/manas-mahawar-363302217
 
 ---
 
-<div align="center">
+## Opportunities
 
-Open to internship opportunities in software development, machine learning, and embedded systems.
-
-</div>
+Open to internships in software development, backend engineering, machine learning, and embedded systems.
