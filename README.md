@@ -24,10 +24,6 @@ My interests lie in backend systems, machine learning, and embedded computing, w
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manas-mahawar&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=manas-mahawar&theme=tokyonight" />
 </p>
 
