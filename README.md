@@ -1,3 +1,5 @@
+<div align="center">
+
 # Manas Mahawar
 
 Electronics & Computer Engineering Student
